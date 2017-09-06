@@ -14,4 +14,4 @@ if meaty == 'y':
     print('You´re eating meat, I guess')
 else:
     print('You´re not eating meat, I guess')
-    
+
